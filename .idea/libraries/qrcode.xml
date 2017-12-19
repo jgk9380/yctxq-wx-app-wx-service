@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="qrcode">
+    <CLASSES>
+      <root url="jar://E:/lib/二维码相关Jar/Qrcode相关jar包/qrcode.jar!/" />
+      <root url="jar://E:/lib/二维码相关Jar/Qrcode相关jar包/Qrcode_swetake.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
